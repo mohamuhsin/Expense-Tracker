@@ -4,8 +4,8 @@ import './ExpenseForm.css';
 const ExpenseForm = () => {
     return (
         <form>
-            <div>
-                
+            <div className="new-expense__controls">
+
             </div>
         </form>
     );
