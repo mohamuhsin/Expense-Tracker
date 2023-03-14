@@ -10,7 +10,7 @@ const saveExpenseDataHandler = (enteredExpenseData) => {
     ...enteredExpenseData, 
     id: Math.random().toString()
   };
-
+// lifting state up 
  props.addExpenseData(expenseData)
 
 }
