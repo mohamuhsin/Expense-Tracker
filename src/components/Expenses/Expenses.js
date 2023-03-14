@@ -3,10 +3,16 @@ import React from "react";
 import ExpenseItem from "./Expenseitem";
 import Card from "../UI/Card";
 import "./Expenses.css";
+import ExpenseFilter from "../New Expense/ExpenseFilter";
+
 
 function Expenses(props) {
   return (
+    
     <Card className="expenses">
+      <div>
+        <ExpenseFilter />
+      </div>
       <ExpenseItem
         title={props.items[0].title}
         amount={props.items[0].amount}
