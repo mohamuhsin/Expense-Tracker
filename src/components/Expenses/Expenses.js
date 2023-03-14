@@ -8,11 +8,8 @@ import ExpenseFilter from "../New Expense/ExpenseFilter";
 function Expenses(props) {
   return (
     <div>
-      <div>
-        <ExpenseFilter />
-      </div>
-
       <Card className="expenses">
+        <ExpenseFilter />
         <ExpenseItem
           title={props.items[0].title}
           amount={props.items[0].amount}
