@@ -12,17 +12,17 @@ const ExpenseFilter = () => {
     <div className="expenses-filter">
       <div className="expenses-filter__control">
         <label>Filter by year</label>
-        <select>
-          <option value="2022" onChange={buttonChangeHandler}>
+        <select onChange={buttonChangeHandler}>
+          <option value="2022" >
             2023
           </option>
-          <option value="2021" onChange={buttonChangeHandler}>
+          <option value="2021">
             2022
           </option>
-          <option value="2020" onChange={buttonChangeHandler}>
+          <option value="2020">
             2021
           </option>
-          <option value="2019" onChange={buttonChangeHandler}>
+          <option value="2019">
             2020
           </option>
         </select>
