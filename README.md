@@ -1,4 +1,4 @@
 # EXPENSE TRACKER BUILT WITH REACT
 This project was built step by step with react from scratch.
 
-For any inquiries email me at moha@mamadi.dev
+For any inquiries email me at moha@mamadi.com
