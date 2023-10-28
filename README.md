@@ -12,4 +12,3 @@ This project was built with react.
 This project was built with react.
 This project was built with react.
 This project was built with react.
-Th
