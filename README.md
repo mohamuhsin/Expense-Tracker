@@ -10,4 +10,4 @@ This project was built with react.
 This project was built with react.
 This project was built with react.
 This project was built with react.
-This project was built wit
+This project was built w
