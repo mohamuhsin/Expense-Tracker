@@ -3,6 +3,6 @@
 This project was built with react.
 This project was built with react.
 This project was built with react.
-This project was built with reac
+This project was built with rea
 
 
